@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urenzab.github.io/sitemap.html.gz
+Sitemap: https://urenzab.github.io/app/sitemap.html.gz
+Sitemap: https://urenzab.github.io/assets/sitemap.html.gz
+Sitemap: https://urenzab.github.io/css/sitemap.html.gz
+Sitemap: https://urenzab.github.io/includes/sitemap.html.gz
+Sitemap: https://urenzab.github.io/item/sitemap.html.gz
+Sitemap: https://urenzab.github.io/src/sitemap.html.gz
